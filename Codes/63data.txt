@@ -1,0 +1,1 @@
+The result is a list of words from the string, although some punctuation may also appear with some of the words. To count the number of words in Alice in Wonderland
