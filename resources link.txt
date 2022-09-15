@@ -1,1 +1,5 @@
 https://github.com/ehmatthes/pcc_2e
+
+
+for projects ideas
+https://github.com/garimasingh128/awesome-python-projects.git
